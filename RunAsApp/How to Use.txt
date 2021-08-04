@@ -1,0 +1,9 @@
+1) Copy the ZIP from connections to a local folder and extract the contents.
+2) Launch the RunAsApp.exe
+3) Choose the browser
+4) Choose the Application Name, this will load the URL for that App from Apps.xml
+5) Choose the test User Name, this will load the user domain and password from User.xml.
+6) Click Launch button, This will launch the selected browser with the application url for that user.
+7) Click App List button to edit or add new URL's
+8) Click User List button to edit or add new Users.
+9) After editing Apps or Users click Refresh button to fetch the updated values.

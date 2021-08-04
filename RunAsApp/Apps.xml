@@ -1,0 +1,68 @@
+<?xml version="1.0" standalone="yes"?>
+<Apps xmlns="http://tempuri.org/Apps.xsd">
+  <AppsInfo>
+    <AppName>CT</AppName>
+    <URL>https://ct-et.nl.eu.abnamro.com/ct/entry</URL>
+  </AppsInfo>
+  <AppsInfo>
+    <AppName>Staffware</AppName>
+    <URL>http://zd107l04-c01.nl.eu.abnamro.com:14059/</URL>
+  </AppsInfo>
+  <AppsInfo>
+    <AppName>KBM</AppName>
+    <URL>http://etkbd.nl.eu.abnamro.com/kbmjsp/login.jsp</URL>
+  </AppsInfo>
+  <AppsInfo>
+    <AppName>BCDB1</AppName>
+    <URL>http://knet1.nl.eu.abnamro.com/nl/managebc/view/redirecttosearch/processview</URL>
+  </AppsInfo>
+  <AppsInfo>
+    <AppName>BCDB2</AppName>
+    <URL>http://knet2.nl.eu.abnamro.com/nl/managebc/view/redirecttosearch/processview</URL>
+  </AppsInfo>
+  <AppsInfo>
+    <AppName>CONCORD</AppName>
+    <URL>https://drmgdc-et.nl.eu.abnamro.com/gdc/web/client/documents </URL>
+  </AppsInfo>
+  <AppsInfo>
+    <AppName>Siebel</AppName>
+    <URL>http://rcs-et.nl.eu.abnamro.com:14243/fins_oui_nld_msec/start.swe?SWECmd=Login&amp;SWEPL=1&amp;SRN=&amp;SWETS=1546420977</URL>
+  </AppsInfo>
+  <AppsInfo>
+    <AppName>BCDB ST</AppName>
+    <URL>http://vm00001291.nl.eu.abnamro.com:9999/en/managebc/general/bcdb/welcome</URL>
+  </AppsInfo>
+  <AppsInfo>
+    <AppName>DebitCard ST</AppName>
+    <URL>http://u390tt1.nl.eu.abnamro.com:7958/cad/debitcards/login/?ssc=CAAAB</URL>
+  </AppsInfo>
+  <AppsInfo>
+    <AppName>TMS ST</AppName>
+    <URL>http://vm00002066.nl.eu.abnamro.com:14688/MVU_TMS/MSec_TMS/welkom.do</URL>
+  </AppsInfo>
+  <AppsInfo>
+    <AppName>KBM ST</AppName>
+    <URL>http://vm00000218.nl.eu.abnamro.com:14037/kbmjsp/cvlogin.jsp</URL>
+  </AppsInfo>
+  <AppsInfo>
+    <AppName>OT ST</AppName>
+    <URL>http://vm00002155.nl.eu.abnamro.com:14688/MVU_AC/MSec_AC/welkom</URL>
+  </AppsInfo>
+  <AppsInfo>
+    <AppName>CONCORD ST</AppName>
+    <URL>http://vm00004517.nl.eu.abnamro.com:14691/gdc/web/client/documents</URL>
+  </AppsInfo>
+  <AppsInfo>
+    <AppName>TMS ET</AppName>
+    <URL>https://msec-tmset.nl.eu.abnamro.com/MVU_TMS/MSec_TMS/welkom.do</URL>
+  </AppsInfo>
+  <AppsInfo>
+    <AppName>DebitCard ET</AppName>
+    <URL>http://u390ac-was.nl.eu.abnamro.com:14916/cad/debitcards/login?ssc=CAAAB</URL>
+  </AppsInfo>
+  <AppsInfo>
+    <AppName>SEPA</AppName>
+    <URL>http://vm00002523.nl.eu.abnamro.com:14034/sdd/intranet/main</URL>
+  </AppsInfo>
+  <AppsInfo />
+</Apps>
